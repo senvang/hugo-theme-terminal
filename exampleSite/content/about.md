@@ -15,7 +15,7 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
 The theme includes:
 
 - **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
+- [**Fira Mono**](https://github.com/mozilla/Fira) as default monospaced font. It's gorgeous!
 - **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
 - mobile friendly layout
 

@@ -34,7 +34,7 @@ The theme brings many useful features thanks to [all people that contributed to 
 ## Features
 
 - **5 duotone themes**, depending on your preferences (orange is default, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
+- [**Fira Mono**](https://github.com/mozilla/Fira) as default monospaced font. It's gorgeous!
 - **really nice duotone**, custom syntax highlighting based on [**PrismJS**](https://prismjs.com)
 - fully responsive
 - fully based on Hugo ecosystem (Pipes and Modules)
